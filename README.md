@@ -82,6 +82,7 @@ shivas = {
 | 🔬 Project | 📝 Description | 🛠 Stack | ⭐ Highlight |
 |:-----------|:---------------|:---------|:-------------|
 | [🤖 ML Portfolio](https://github.com/Shivas28/ML-Portfolio) | End-to-end ML projects from preprocessing to deep learning & NLP | Python · TensorFlow · Scikit-learn | 6 domains, 15+ notebooks |
+| [🛒 Amazon Recommendation System](https://github.com/Shivas28/Amazon-Recommendation-System) | Collaborative filtering + ML classifier on 7.8M Amazon ratings | Python · Scikit-learn · Pandas | 87.23% Accuracy |
 | [🚢 Titanic Survival Prediction](https://github.com/Shivas28/Titanic_Survival_Prediction) | ML model predicting passenger survival using classification algorithms | Python · Scikit-learn · Pandas | Feature Engineering + EDA |
 | [📩 SMS Spam Classifier](https://github.com/Shivas28/Sms_spam_classifier) | NLP pipeline to detect spam vs. ham with TF-IDF + Naive Bayes | Python · NLTK · Scikit-learn | 97%+ Accuracy |
 | [📉 Customer Churn Analysis](https://github.com/Shivas28/customer-churn-analysis) | Predicting churn using Logistic Regression with rich visualizations | Python · Matplotlib · Seaborn | Business-Ready Insights |
